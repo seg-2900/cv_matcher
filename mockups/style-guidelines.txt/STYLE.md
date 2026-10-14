@@ -39,3 +39,5 @@ CV Match is a clean and simple web tool that helps users check their CV against 
 - Centered layout with a max width of 1200px.
 
 - Uses flexbox and CSS grid to stay responsive on screens of all sizes.
+
+
