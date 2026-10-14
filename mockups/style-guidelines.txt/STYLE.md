@@ -2,7 +2,7 @@ CV MATCH - STYLE GUIDELINES
  
 1. Overview
 
-CV Match is a clean and simple web tool that helps users check their CV against job postings. The design relies on a fresh mint green and deep navy color scheme for a modern look.
+CV Match is a clean and simple web tool that helps users check their CV against job postings. The design relies on a fresh mint green and deep navy color scheme for a modern look. 
  
 2. Colors
 
