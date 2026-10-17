@@ -3,8 +3,6 @@ NAMES             |   STUDENT NUMBER
 
 Youssef Souiss     |   300509893
 
-Oumayma Oumouhou   |   300550119
-
 Bugra Yilmaz       |   300558959
 
 Sully Yuan         |   300528762
