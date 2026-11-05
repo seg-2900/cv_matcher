@@ -1,1 +1,23 @@
+CVMATCH STYLE GUIDELINES
 
+COLORS
+- Navy #14213d: headings, logo, dark sections
+- Blue #2f5bff: buttons, links, accents
+- Page background #f6f8fb, text #3b4558, borders #d9e0ea, cards white
+
+FONTS
+- Headings: Georgia (serif)
+- Body text: system sans-serif, 17px
+
+LAYOUT
+- Content centered, max width 68rem
+- White cards with rounded corners and a thin border
+- Pages adapt to phone screens
+
+BUTTONS
+- Main button: blue with white text
+- Secondary button: navy outline
+
+CONSISTENCY
+- Same header, navigation and footer on every page
+- Short, friendly wording
